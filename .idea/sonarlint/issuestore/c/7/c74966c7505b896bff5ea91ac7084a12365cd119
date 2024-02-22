@@ -1,0 +1,10 @@
+
+v
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(Éô±Ä8†ëşÜ1
+0
+java:S1220""Move this file to a named package.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ıİŞäøÿÿÿÿ8‹ëşÜ1
+>	java:S131""Add a default case to this switch.(ñª ¸8ŒëşÜ1
+L	java:S1066"+Replace this use of System.out by a logger.(²àéÁüÿÿÿÿ8ëşÜ1
+L	java:S1067"+Replace this use of System.out by a logger.(ÁÌÙ¥ÿÿÿÿÿ8ëşÜ1
